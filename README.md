@@ -6,7 +6,7 @@ Project ini untuk mempelajari tentang React JS dan Material UI, disini mengikuti
 
 
 
-### Source UI Design
+### Source UI Design (Figma)
 https://www.uistore.design/items/trafalgar-landing-page-for-figma/
 
 ### Source React JS
